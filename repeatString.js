@@ -1,4 +1,4 @@
-function repeat(string, times) {
+function repeat(str, num) {
   //Created a string to stor the variable
   var newstr = [];
   //Create a loop to repeat the code as many times as needed
